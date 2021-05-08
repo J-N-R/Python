@@ -1,0 +1,2 @@
+# Project 1
+This Project takes in data from [The US's Department of Transportation: Office of Highway Policy Information](https://www.fhwa.dot.gov/policyinformation/travel_monitoring/tvt.cfm) that provides active travel data on US highways and roads collected over each month. With this data, we know exactly how much people are travelling, and with it, we can analyze if people are starting to get closer to their pre-covid routines from their travel patterns.
