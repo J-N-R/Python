@@ -19,6 +19,6 @@
 
 - [Project 3 Link](https://github.com/J-N-R/Python/tree/main/Project3)
 
-- <b>Description:</b>  Once I've finally finished learning the essentials of Python, I took it upon myself to create this final project. For this project, I created an App that allows you to see whether or not covid is around you! Using John Zelle's graphics.py library, and powered by pandas and [a live, constantly updating database of covid data](https://github.com/nytimes/covid-19-data/blob/master/live/us-counties.csv), this app allows anyone to input their state and county, and see how many cases of COVID and COVID related deaths are around them in their county, giving them much needed insight to how safe their local environment is!
+- <b>Description:</b>  Once I've finally finished learning the essentials of Python, I took it upon myself to create this final project. For this project, I created an App that allows you to see whether or not covid is around you! Using [John Zelle's graphics.py library](https://mcsp.wartburg.edu/zelle/python/graphics.py), and powered by pandas and [a live, constantly updating database of covid data](https://github.com/nytimes/covid-19-data/blob/master/live/us-counties.csv), this app allows anyone to input their state and county, and see how many cases of COVID and COVID related deaths are around them in their county, giving them much needed insight to how safe their local environment is!
 
 
