@@ -15,7 +15,7 @@
 - <b>Description:</b>  For this project, I dived in and took on the challenge of learning 3 new python libraries, and creating a mini program for each and every one of them. 
 
 
-## Project #3: Is Covid Near Me?
+## Project #3: Is Covid Near Me? (desktop app)
 
 - [Project 3 Link](https://github.com/J-N-R/Python/tree/main/Project3)
 
